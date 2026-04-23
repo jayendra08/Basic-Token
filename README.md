@@ -10,7 +10,7 @@ Set token name, symbol, and total supply
 
 Supports standard token format (ERC-20)
 
-Beginner-friendly UI
+Beginner-friendly UI✅
 
 Quick deployment to blockchain
 
